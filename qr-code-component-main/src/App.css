@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Edu+TAS+Beginner:wght@700&family=Outfit:wght@400;700&family=Playpen+Sans&display=swap');
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'outfit', sans-serif;
+}
